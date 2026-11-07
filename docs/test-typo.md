@@ -1,1 +1,1 @@
-This is a tset of the copy-fix path.
+This is a test of the copy-fix path.
